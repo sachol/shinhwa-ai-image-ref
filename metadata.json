@@ -1,0 +1,5 @@
+{
+  "name": "신화AI Image Machine",
+  "description": "텍스트 프롬프트와 스타일 참조 URL을 사용하여 비동기적으로 이미지를 생성하고, 생성 진행 상황을 실시간으로 추적하는 사용자 친화적인 웹 인터페이스입니다.",
+  "requestFramePermissions": []
+}
